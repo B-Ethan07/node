@@ -20,16 +20,15 @@ Ce projet a pour but de servir de base pour une application Node.js. Suivez les 
   ```bash
   touch index.js
   ```
-- [x] Installer les dépendances nécessaires (exemple avec Express) :
+- [x] Installer les dépendances nécessaires (Chalk) :
   ```bash
-  npm install express
+  npm install chalk
   ```
 - [x] Créer un fichier `.gitignore` :
   ```
   node_modules
   .env
   ```
-- [ ] Écrire un premier script dans `index.js`
 - [ ] Ajouter un script `start` dans `package.json` :
   ```json
   "scripts": {
