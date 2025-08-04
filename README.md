@@ -14,7 +14,8 @@ Ce projet a pour but de servir de base pour une application Node.js. Suivez les 
   ```
 - [x] Initialiser le projet avec npm :
   ```bash
-  npm init 
+  npm init
+  npm install
   ```
 ---
 
