@@ -16,26 +16,6 @@ Ce projet a pour but de servir de base pour une application Node.js. Suivez les 
   ```bash
   npm init 
   ```
-- [x] Créer un fichier d’entrée :
-  ```bash
-  touch index.js
-  ```
-- [x] Installer les dépendances nécessaires (Chalk) :
-  ```bash
-  npm install chalk
-  ```
-- [x] Créer un fichier `.gitignore` :
-  ```
-  node_modules
-  .env
-  ```
-- [ ] Ajouter un script `start` dans `package.json` :
-  ```json
-  "scripts": {
-    "start": "node index.js"
-  }
-  ```
-
 ---
 
 ## Structure du projet (exemple)
