@@ -12,3 +12,11 @@ console.log(
 console.log(
   chalk.red("Hello Shalom!")
 );
+
+const users = ["Shafi", "Clara", "Mumu", "Fatma"]
+console.log(
+  chalk.red(users[0]),
+  chalk.yellow(users[1]),
+  chalk.blue(users[2]),
+  chalk.green(users[3])
+);
